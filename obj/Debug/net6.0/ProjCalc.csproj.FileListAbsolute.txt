@@ -1,0 +1,14 @@
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\bin\Debug\net6.0\ProjCalc.exe
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\bin\Debug\net6.0\ProjCalc.deps.json
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\bin\Debug\net6.0\ProjCalc.runtimeconfig.json
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\bin\Debug\net6.0\ProjCalc.dll
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\bin\Debug\net6.0\ProjCalc.pdb
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.AssemblyInfoInputs.cache
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.AssemblyInfo.cs
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.csproj.CoreCompileInputs.cache
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.dll
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\refint\ProjCalc.dll
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.pdb
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.genruntimeconfig.cache
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ref\ProjCalc.dll
