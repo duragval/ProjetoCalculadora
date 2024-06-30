@@ -4,8 +4,8 @@ Console.WriteLine("+ > SOMA\n- > SUBTRAÇÃO\n* > MULTIPLICAÇÃO\n/ > DIVISÃO\
 string operador = Console.ReadLine();
 
 Console.WriteLine("DIGITE OS DOIS VALORES");
-var a = Convert.ToDouble(Console.ReadLine());
-var b = Convert.ToDouble(Console.ReadLine());
+var valor1 = Convert.ToDouble(Console.ReadLine());
+var valor2 = Convert.ToDouble(Console.ReadLine());
 
 float resposta = 0;
 int saidaValor = 0;
