@@ -16,43 +16,15 @@ switch (operador)
         resposta = (float)(a + b);
         Console.WriteLine("QUER O RESULTADO INTEIRO(1) OU NÃO INTEIRO(2)?");
         saidaValor = Convert.ToInt32(Console.ReadLine());
-        switch (saidaValor)
-        {
-            case 1:
-                Console.WriteLine($"O RESULTADO É {Convert.ToInt32(resposta)}");
-                break;
-            case 2:
-                Console.WriteLine($"O RESULTADO É {resposta}");
-                break;
-        }
         break;
     case "-":
         resposta = (float)(a - b);
         Console.WriteLine("QUER O RESULTADO INTEIRO(1) OU NÃO INTEIRO(2)?");
         saidaValor = Convert.ToInt32(Console.ReadLine());
-        switch (saidaValor)
-        {
-            case 1:
-                Console.WriteLine($"O RESULTADO É {Convert.ToInt32(resposta)}");
-                break;
-            case 2:
-                Console.WriteLine($"O RESULTADO É {resposta}");
-                break;
-        }
         break;
     case "*":
         resposta =(float)(a * b);
         Console.WriteLine("QUER O RESULTADO INTEIRO(1) OU NÃO INTEIRO(2)?");
-        saidaValor = Convert.ToInt32(Console.ReadLine());
-        switch (saidaValor)
-        {
-            case 1:
-                Console.WriteLine($"O RESULTADO É {Convert.ToInt32(resposta)}");
-                break;
-            case 2:
-                Console.WriteLine($"O RESULTADO É {resposta}");
-                break;
-        }
         break;
     case "/":
         if ( a == 0 || b == 0)
@@ -65,40 +37,27 @@ switch (operador)
             resposta = (float)(a / b);
             Console.WriteLine("QUER O RESULTADO INTEIRO(1) OU NÃO INTEIRO(2)?");
             saidaValor = Convert.ToInt32(Console.ReadLine());
-            switch (saidaValor)
-            {
-                case 1:
-                    Console.WriteLine($"O RESULTADO É {Convert.ToInt32(resposta)}");
-                    break;
-                case 2:
-                    Console.WriteLine($"O RESULTADO É {resposta}");
-                    break;
-            }
             break;
         }
     case "%":
         resposta =(float)(a % b);
         Console.WriteLine("QUER O RESULTADO INTEIRO(1) OU NÃO INTEIRO(2)?");
         saidaValor = Convert.ToInt32(Console.ReadLine());
-        switch (saidaValor)
-        {
-            case 1:
-                Console.WriteLine($"O RESULTADO É {Convert.ToInt32(resposta)}");
-                break;
-            case 2:
-                Console.WriteLine($"O RESULTADO É {resposta}");
-                break;
-        }
         break;
     default:
         Console.WriteLine("ERRO, ENCERRANDO SISTEMA...");
         break;
 }
 
-
-
-
-
+switch (saidaValor)
+{
+    case 1:
+        Console.WriteLine($"O RESULTADO É {Convert.ToInt32(resposta)}");
+        break;
+    case 2:
+        Console.WriteLine($"O RESULTADO É {resposta}");
+        break;
+}
 
 
 Console.ReadKey();

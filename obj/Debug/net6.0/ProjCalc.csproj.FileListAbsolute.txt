@@ -12,3 +12,4 @@ C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\refint\Pro
 C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.pdb
 C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.genruntimeconfig.cache
 C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ref\ProjCalc.dll
+C:\Users\varle\OneDrive\Documentos\curso_c#\ProjCalc\obj\Debug\net6.0\ProjCalc.sourcelink.json
